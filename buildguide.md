@@ -1,5 +1,6 @@
 # Build Guide
 Although it has some complex firmware features, the Lexicon’s hardware is standard for hobbyist mechanical keyboards, and not difficult to assemble. This guide will walk you through the necessary steps. Please take appropriate safety precautions when soldering and working on electronics.
+
 Most standard MX keycap sets will work with the Lexicon, but you will need 1.25u, 2.25u, and 2.75u keycaps for the split spacebar. Many keycap sets include these, but they can be purchased separately as well.
 
 ## Bill of Materials
