@@ -1,1 +1,0 @@
-# Lexicon User's Guide
