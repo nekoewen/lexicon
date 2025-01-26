@@ -9,3 +9,5 @@ If you purchased a set of Lexicon PCB and plates, this guide will walk you throu
 
 ## [User's Guide](https://github.com/nekoewen/lexicon/blob/main/Lexicon%20User's%20Guide.pdf)
 Once you have a Lexicon ready to use, this guide explains all of its features in detail.
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
