@@ -4,4 +4,4 @@ This is a 3D-printable case designed by my good friend [Yenway](https://bsky.app
 
 With PLA I've been able to print these without needing any supports, but it may become necessary for PETG. I recommend using variable layer height to reduce layer lines on the top.
 
-![](IMG_7950.jpg)
+![](IMG_7950.jpeg)
